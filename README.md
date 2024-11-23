@@ -44,7 +44,7 @@ This script is for educational purposes only. The author is not responsible for 
 
 ---
 
-System Requirements
+# System Requirements
 
 Python 3.x
 
