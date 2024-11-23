@@ -24,7 +24,7 @@ This script is for educational purposes only. The author is not responsible for 
 <img src="https://i.ibb.co/WyPf4yY/Screenshot-20241123-181438-1.jpg" alt="SPAM APOCALYPSE" width="600">
 ---
 
-Features
+# Features
 
 📧 Dynamic Spam Engine: Sends customizable emails with randomized or custom subjects.
 
@@ -59,7 +59,7 @@ Enable "Allow less secure apps" or generate an App Password (recommended if 2FA 
 
 ---
 
-Installation
+# Installation
 
 For Linux
 
@@ -144,7 +144,7 @@ Specify the spam message and the number of emails to send.
 
 ---
 
-Usage Example
+# Usage Example
 
 🔥 WELCOME TO THE SPAM APOCALYPSE 🔥
 💀 THIS SCRIPT WILL TURN INBOXES INTO A DIGITAL WARZONE 💀
@@ -184,7 +184,7 @@ Output:
 
 ---
 
-Troubleshooting
+# Troubleshooting
 
 Gmail Login Issues
 
@@ -222,7 +222,7 @@ Enable IMAP and save changes.
 
 ---
 
-Customization
+# Customization
 
 Spoofed Sender Name: Choose any name to display as the sender in the recipient’s inbox.
 
@@ -236,7 +236,7 @@ Delay Timing: Adjust the random delay in time.sleep(random.uniform(0.5, 1.5)) fo
 
 ---
 
-Disclaimer
+# Disclaimer
 
 This tool is for educational purposes only.
 
