@@ -5,7 +5,7 @@
 
 
 
-# 🔥 Author: SuperXuser AKA Xhane Etable
+# 🔥 Author: SuperXuser
 
 
 ---
